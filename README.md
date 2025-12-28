@@ -1,1 +1,1 @@
-# Cybersecurity-Lab-Journal
+# Cybersecurity Lab Journal
